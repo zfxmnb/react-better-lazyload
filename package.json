@@ -1,6 +1,6 @@
 {
   "name": "react-better-lazyload",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "react lazyload component",
   "main": "index.js",
   "scripts": {
